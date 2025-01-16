@@ -23,6 +23,6 @@ For common issues and their solutions, please check our [Troubleshooting Guide](
 ## Team
 
 - Alayaki Tenitope - Backend Developer and Frontend Developer  - [GitHub](https://github.com/AOTRA68)
-- Jehoiakim Vincent -AI Developer - [GitHub](https://github.com/janesmith)
+- Jehoiakim Vincent - Frontend and AI Developer - [GitHub](https://github.com/janesmith)
 
 ... (rest of the content remains the same) ...
